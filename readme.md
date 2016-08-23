@@ -2,7 +2,7 @@
 
 _List of centers, environments, programs, and departments dedicated to data science or data-driven research._
 
-View a potentially outdated [version on Google Sheets](https://docs.google.com/spreadsheets/d/1YeVQmfLtEPp6iMqp3r1VZFLBwKmDS3dAbPZoShwSXNg/edit?usp=sharing), or download the csv file in this repository. 
+[list-of-centers.csv](https://github.com/DDD-Moore/list-of-centers/blob/master/list-of-centers.csv)
 
 **Please submit missing centers as pull requests or issues!**
 
